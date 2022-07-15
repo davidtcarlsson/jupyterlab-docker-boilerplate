@@ -1,5 +1,5 @@
 services:
   jupyterlab:
-    image: jupyterlab:latest
+    image: davidtcarlsson/jupyter-boilerplate
     ports:
       - "8888:8888"
