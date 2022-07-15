@@ -1,0 +1,5 @@
+services:
+  jupyterlab:
+    image: jupyterlab:latest
+    ports:
+      - "8888:8888"
